@@ -26,8 +26,10 @@ yarn -v
 
 # Install Hardhat
 sudo npm install -g hardhat
+```
 
-# only for Mac users
+## only for Mac users
+```console
 # Packages:
 brew update && brew upgrade -y
 
