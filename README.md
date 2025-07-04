@@ -8,7 +8,7 @@ Will regularly update this repository with detailed guides on technical tasks re
 * **Codespace**: If you don't have VPS or Windows WSL, you can use [Github Codespace](https://github.com/codespaces), create a blank template and run your codes.
 
 **MacOS**
-* **Mac** : Use brew for the below dependencies instead of Sudo.
+* **Mac** : Use brew for the below dependencies instead of Sudo apt.
   
 ## Install Dependecies
 ```console
