@@ -7,6 +7,9 @@ Will regularly update this repository with detailed guides on technical tasks re
 * **Windows**: Install Linux Ubuntu using WSL by following this [guide](https://github.com/0xmoei/Install-Linux-on-Windows)
 * **Codespace**: If you don't have VPS or Windows WSL, you can use [Github Codespace](https://github.com/codespaces), create a blank template and run your codes.
 
+**MacOS**
+* **Mac** : Use brew for the below dependencies instead of Sudo.
+  
 ## Install Dependecies
 ```console
 # Packages:
